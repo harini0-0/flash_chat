@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419465650016",
+    "project_id": "flash-chat-4395a",
+    "storage_bucket": "flash-chat-4395a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419465650016:android:2ebe674e33af4637958805",
+        "android_client_info": {
+          "package_name": "co.harinit.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419465650016-34l1seqrt2j8as937q5cpo7t4acl721o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUkd1t0TcHcKhy2zavXkzU5jJnSiBgIxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419465650016-34l1seqrt2j8as937q5cpo7t4acl721o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
